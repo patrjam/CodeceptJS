@@ -57,7 +57,7 @@
     "@codeceptjs/configure": "^0.6.2",
     "@codeceptjs/helper": "^1.0.2",
     "acorn": "^7.4.1",
-    "allure-js-commons": "^1.3.2",
+    "allure-js-commons": "^2.0.0-beta.9",
     "arrify": "^2.0.1",
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
